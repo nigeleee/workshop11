@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+
+html { 
+    background: url("images/famiwi.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+            
+  }
+
+.text {
+    font-family: 'Sacramento', cursive; 
+    font-size: 24pt;
+    text-align: center;
+    
+}
+
+
+h2 {
+    display: inline;
+    font-family: monospace, color maroon;
+
+}
+
+h3 {
+        display: inline;
+        font-family: monospace;
+
+}
